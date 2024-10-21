@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    text-align: center;
+}
+
+header {
+    background-color: #671D85;
+    padding: 5px;
+    color: white;
+    
+}
+
+h2 {
+    color: #671D85;
+    font-family:sans-serif;
+    text-align:justify;
+}
+
+h3{ 
+    color: #671D85;
+    margin: 10px;
+    text-decoration: underline;
+    font-size:25px
+}
+
+main {
+    margin: 40px;
+    padding: 250px;
+    background-color: #f4f4f4;
+    border-radius: 20px;
+}
+
+
+footer {
+    background-color: #671D85;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
